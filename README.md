@@ -12,7 +12,7 @@ La estructura de estilos y de componentes está organizada con mis preferencias,
 ## Hojas de estilo y Sass
 IMPORTANTE: Este starter kit está pensado para utilizar Sass en lugar de CSS, comprueba que se encuentre el paquete dentro del archivo package.json o instalalo ejecutando npm install node-sass en la terminal.
 
-Por defecto, he añadido en stlyes una subcarpeta para incluir variables y una hoja de reset. Puedes borrarlas o modificarlas si no deseas alguna de ellas (acuérdate de borrar el import de App.css si lo haces).
+Por defecto, he añadido en styles una subcarpeta para incluir variables y una hoja de reset. Puedes borrarlas o modificarlas si no deseas alguna de ellas (acuérdate de borrar el import de App.css si lo haces).
 
 ### ¿Cómo utilizarlo?
 
